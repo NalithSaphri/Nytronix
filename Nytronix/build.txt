@@ -1,0 +1,3 @@
+displayName = Nytronix Mod
+author = Nalith Saphri
+version = 0.1
